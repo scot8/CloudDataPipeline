@@ -1,0 +1,4 @@
+Steps are mentioned in the Creation process folder or in step 4/step5
+Username: sqladminuser
+Password: Redsea@0987
+Endpoint: defaultworkspace1.sql.azuresynapse.net
